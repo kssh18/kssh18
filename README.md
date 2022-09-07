@@ -1,4 +1,4 @@
-[![MasterHead](https://ckeditor.com/blog/is-coding-for-everyone/feature.png)
+![MasterHead](https://ckeditor.com/blog/is-coding-for-everyone/feature.png)
 
 <h1 align="center">Hi 👋, I'm Harshith</h1>
 <h3 align="center">A passionate AI Undergrad at Amrita School of Engineering</h3>
